@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 又加了一行
 git track change
 add a new low
+ddd
